@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🖥️ I code in Python, Go, TypeScript and Java 
+- 🌱 I’m currently learning Machine Learning, Streamlit and PyTorch 
+- 💬 Ask me for easy tips to cook good Indian food
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaidevp/)
