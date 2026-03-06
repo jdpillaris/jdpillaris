@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🖥️ I code mostly in Python, Go, TypeScript and Java 
-- 🌱 I’m currently learning Machine Learning, Streamlit and PyTorch 
+- 🖥️ I code mostly in Python, Java, Go and JavaScript/TypeScript 
+- 🌱 I also love wrestling with data and untangling it. I’m currently learning Data Science, Machine Learning, Streamlit and PyTorch
+- I'm looking to collaborate on projects for public good, governance and the food and energy supply chains
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaidevp/)
