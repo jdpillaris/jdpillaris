@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🖥️ I code mostly in Python, Java, Go and JavaScript/TypeScript 
 - 🌱 I also love wrestling with data and untangling it. I’m currently learning Data Science, Machine Learning, Streamlit and PyTorch
-- 👯 I'm looking to collaborate on projects for public good, governance and the food and energy supply chains
+- 👯 I'm looking to collaborate on projects for public good and the food/energy supply chains
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaidevp/)
